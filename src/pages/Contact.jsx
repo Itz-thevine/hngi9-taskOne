@@ -26,7 +26,7 @@ const Contact = () => {
                             <input type="email" id='email' className=' w-full h-[44px] px-3.5 py-2.5 my-2.5 mb-12 rounded-md border-slate-300 border-2' placeholder='yourname@email.com'/>
                         </label>
                         <label for="message">Your message
-                            <textarea id="message" rows="4" class="resize-noneblock px-3.5 py-2.5 my-2.5 mb-12 w-full rounded-md border-slate-300 border-2" placeholder="Your message..."></textarea>
+                            <textarea id="message" rows="4" class="resize-noneblock px-3.5 py-2.5 mt-2.5 mb-12 w-full rounded-md border-slate-300 border-2" placeholder="Send me a message and I'll reply you as soon as possible..."></textarea>
                         </label>
                         <div class="flex items-start mb-12">
                             <label for="checkbox" class="ml-2 text-sm font-medium text-gray-900 dark:text-gray-300 flex">
