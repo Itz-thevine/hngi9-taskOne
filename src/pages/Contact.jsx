@@ -35,7 +35,7 @@ const Contact = () => {
                             </label>
                         </div>
 
-                        <input type="submit" id='btn_submit' className='w-full bg-blue-600 text-white py-3 rounded-md' value='Send message' />
+                        <input type="submit" id='btn_submit' className='cursor-pointer w-full bg-blue-600 text-white py-3 rounded-md' value='Send message' />
 
                     </form>
             
